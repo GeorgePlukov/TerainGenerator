@@ -13,9 +13,19 @@ Current Terrain options:
    - Lakes
 
 ### Change Log
-
 #####Version 1.0
    - Added to github
    - Functioning lakes
    - Terrain being generated
    - Variable map sizes
+
+
+### In the Future
+##### Planned Features
+   - Islands
+   - Peninsulas
+   - Bigger lakes 
+   
+##### Bug Fixes
+   - Lakes with sand in the center
+   - Random blocks of sand in grass
