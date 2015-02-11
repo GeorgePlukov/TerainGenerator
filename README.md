@@ -11,4 +11,11 @@ Current block types:
 Current Terrain options:
 
    - Lakes
-   - Islands (not functioning)
+
+### Change Log
+
+#####Version 1.0
+   - Added to github
+   - Functioning lakes
+   - Terrain being generated
+   - Variable map sizes
