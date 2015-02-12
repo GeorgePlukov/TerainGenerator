@@ -18,6 +18,7 @@ Current Terrain options:
    - Functioning lakes
    - Terrain being generated
    - Variable map sizes
+   - No more 'square map syndrome'
 
 
 ### In the Future
@@ -29,3 +30,4 @@ Current Terrain options:
 ##### Bug Fixes
    - Lakes with sand in the center
    - Random blocks of sand in grass
+   
