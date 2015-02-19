@@ -23,6 +23,8 @@ Current Terrain options:
 
 ### In the Future
 ##### Planned Features
+   - Add ability to export as text files
+   - Add GUI for different options
    - Islands
    - Peninsulas
    - Bigger lakes 
